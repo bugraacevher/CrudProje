@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f273fb29-b1bc-4a31-9f59-d07049127b74": {
+      "ProjectGuid": "f273fb29-b1bc-4a31-9f59-d07049127b74",
+      "DisplayName": "MvcCrudProject.Data",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

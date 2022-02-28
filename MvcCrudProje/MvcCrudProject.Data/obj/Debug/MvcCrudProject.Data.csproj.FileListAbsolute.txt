@@ -1,0 +1,48 @@
+C:\Users\halil\Desktop\MvcCrudProje\MvcCrudProject.Data\bin\Debug\MvcCrudProject.Data.dll.config
+C:\Users\halil\Desktop\MvcCrudProje\MvcCrudProject.Data\bin\Debug\MvcCrudProject.Data.dll
+C:\Users\halil\Desktop\MvcCrudProje\MvcCrudProject.Data\bin\Debug\MvcCrudProject.Data.pdb
+C:\Users\halil\Desktop\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.dll
+C:\Users\halil\Desktop\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\halil\Desktop\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.xml
+C:\Users\halil\Desktop\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\halil\Desktop\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.csprojAssemblyReference.cache
+C:\Users\halil\Desktop\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.csproj.CopyComplete
+C:\Users\halil\Desktop\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.dll
+C:\Users\halil\Desktop\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.pdb
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\MvcCrudProject.Data\bin\Debug\MvcCrudProject.Data.dll.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\MvcCrudProject.Data\bin\Debug\MvcCrudProject.Data.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\MvcCrudProject.Data\bin\Debug\MvcCrudProject.Data.pdb
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.csprojAssemblyReference.cache
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.csproj.CopyComplete
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.pdb
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\MvcCrudProject.Data\bin\Debug\MvcCrudProject.Data.dll.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\MvcCrudProject.Data\bin\Debug\MvcCrudProject.Data.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\MvcCrudProject.Data\bin\Debug\MvcCrudProject.Data.pdb
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.csprojAssemblyReference.cache
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.csproj.CopyComplete
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.pdb
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\MvcCrudProject.Data\bin\Debug\MvcCrudProject.Data.dll.config
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\MvcCrudProject.Data\bin\Debug\MvcCrudProject.Data.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\MvcCrudProject.Data\bin\Debug\MvcCrudProject.Data.pdb
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.xml
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\MvcCrudProject.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.csproj.AssemblyReference.cache
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.csproj.CopyComplete
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\MvcCrudProject.Data\obj\Debug\MvcCrudProject.Data.pdb

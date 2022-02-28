@@ -1,0 +1,404 @@
+C:\Users\halil\Desktop\MvcCrudProje\bin\MvcCrudProje.dll.config
+C:\Users\halil\Desktop\MvcCrudProje\bin\MvcCrudProje.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\MvcCrudProje.pdb
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\csc.exe
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\csc.exe.config
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\csc.rsp
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\csi.exe
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\csi.exe.config
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\csi.rsp
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.AppContext.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Console.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Net.Http.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\vbc.exe
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\vbc.exe.config
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\vbc.rsp
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\halil\Desktop\MvcCrudProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\halil\Desktop\MvcCrudProje\bin\EntityFramework.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\EntityFramework.SqlServer.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\System.Web.Helpers.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\System.Web.Mvc.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\System.Web.Razor.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\System.Web.Webpages.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\EntityFramework.xml
+C:\Users\halil\Desktop\MvcCrudProje\bin\EntityFramework.SqlServer.xml
+C:\Users\halil\Desktop\MvcCrudProje\bin\System.Web.Razor.xml
+C:\Users\halil\Desktop\MvcCrudProje\bin\System.Web.Webpages.xml
+C:\Users\halil\Desktop\MvcCrudProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\halil\Desktop\MvcCrudProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\halil\Desktop\MvcCrudProje\bin\System.Web.Helpers.xml
+C:\Users\halil\Desktop\MvcCrudProje\bin\System.Web.Mvc.xml
+C:\Users\halil\Desktop\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\halil\Desktop\MvcCrudProje\obj\Debug\MvcCrudProje.csprojAssemblyReference.cache
+C:\Users\halil\Desktop\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CopyComplete
+C:\Users\halil\Desktop\MvcCrudProje\obj\Debug\MvcCrudProje.dll
+C:\Users\halil\Desktop\MvcCrudProje\obj\Debug\MvcCrudProje.pdb
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\MvcCrudProje.dll.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\MvcCrudProje.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\MvcCrudProje.pdb
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\csc.exe
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\csc.exe.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\csc.rsp
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\csi.exe
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\csi.exe.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\csi.rsp
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.AppContext.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Console.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Net.Http.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\vbc.exe
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\vbc.exe.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\vbc.rsp
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\EntityFramework.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\EntityFramework.SqlServer.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\System.Web.Helpers.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\System.Web.Mvc.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\System.Web.Razor.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\System.Web.Webpages.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\EntityFramework.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\EntityFramework.SqlServer.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\System.Web.Razor.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\System.Web.Webpages.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\System.Web.Helpers.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\System.Web.Mvc.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CopyComplete
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\obj\Debug\MvcCrudProje.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\obj\Debug\MvcCrudProje.pdb
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje - 1\MvcCrudProje\obj\Debug\MvcCrudProje.csprojAssemblyReference.cache
+C:\Users\halil\Desktop\MvcCrudProje\bin\MvcCrudProject.Business.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\MvcCrudProject.Data.dll
+C:\Users\halil\Desktop\MvcCrudProje\bin\MvcCrudProject.Business.pdb
+C:\Users\halil\Desktop\MvcCrudProje\bin\MvcCrudProject.Business.dll.config
+C:\Users\halil\Desktop\MvcCrudProje\bin\MvcCrudProject.Data.pdb
+C:\Users\halil\Desktop\MvcCrudProje\bin\MvcCrudProject.Data.dll.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\MvcCrudProje.dll.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\MvcCrudProje.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\MvcCrudProje.pdb
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\csc.exe
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\csc.exe.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\csc.rsp
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\csi.exe
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\csi.exe.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\csi.rsp
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.AppContext.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Console.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Net.Http.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\vbc.exe
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\vbc.exe.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\vbc.rsp
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\EntityFramework.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\EntityFramework.SqlServer.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\MvcCrudProject.Business.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\MvcCrudProject.Data.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\System.Web.Helpers.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\System.Web.Mvc.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\System.Web.Razor.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\System.Web.Webpages.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\MvcCrudProject.Business.pdb
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\MvcCrudProject.Business.dll.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\MvcCrudProject.Data.pdb
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\MvcCrudProject.Data.dll.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\EntityFramework.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\EntityFramework.SqlServer.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\System.Web.Razor.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\System.Web.Webpages.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\System.Web.Helpers.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\System.Web.Mvc.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\obj\Debug\MvcCrudProje.csprojAssemblyReference.cache
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CopyComplete
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\obj\Debug\MvcCrudProje.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\Crud Proje 3 - Katmanlı Mimari\MvcCrudProje\obj\Debug\MvcCrudProje.pdb
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\MvcCrudProje.dll.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\MvcCrudProje.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\MvcCrudProje.pdb
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\csc.exe
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\csc.exe.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\csc.rsp
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\csi.exe
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\csi.exe.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\csi.rsp
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.AppContext.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Console.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Net.Http.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\vbc.exe
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\vbc.exe.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\vbc.rsp
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\EntityFramework.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\EntityFramework.SqlServer.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\MvcCrudProject.Business.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\MvcCrudProject.Data.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\System.Web.Helpers.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\System.Web.Mvc.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\System.Web.Razor.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\System.Web.Webpages.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\MvcCrudProject.Business.pdb
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\MvcCrudProject.Business.dll.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\MvcCrudProject.Data.pdb
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\MvcCrudProject.Data.dll.config
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\EntityFramework.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\EntityFramework.SqlServer.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\System.Web.Razor.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\System.Web.Webpages.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\System.Web.Helpers.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\System.Web.Mvc.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\obj\Debug\MvcCrudProje.csprojAssemblyReference.cache
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CopyComplete
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\obj\Debug\MvcCrudProje.dll
+C:\Users\halil\Desktop\Smartpro Yazılım Dersler - Kopya\CrudProje - 4 Login\MvcCrudProje\obj\Debug\MvcCrudProje.pdb
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\MvcCrudProje.dll.config
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\MvcCrudProje.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\MvcCrudProje.pdb
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\csc.exe
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\csc.exe.config
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\csc.rsp
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\csi.exe
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\csi.exe.config
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\csi.rsp
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.AppContext.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Console.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Net.Http.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\vbc.exe
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\vbc.exe.config
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\vbc.rsp
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\EntityFramework.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\EntityFramework.SqlServer.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\MvcCrudProject.Business.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\MvcCrudProject.Data.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\System.Web.Helpers.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\System.Web.Mvc.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\System.Web.Razor.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\System.Web.Webpages.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\System.Web.Webpages.Razor.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\MvcCrudProject.Business.pdb
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\MvcCrudProject.Business.dll.config
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\MvcCrudProject.Data.pdb
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\MvcCrudProject.Data.dll.config
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\EntityFramework.xml
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\EntityFramework.SqlServer.xml
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\System.Web.Razor.xml
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\System.Web.Webpages.xml
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\System.Web.Webpages.Razor.xml
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\System.Web.Helpers.xml
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\System.Web.Mvc.xml
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.AssemblyReference.cache
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CoreCompileInputs.cache
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\obj\Debug\MvcCrudProje.csproj.CopyComplete
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\obj\Debug\MvcCrudProje.dll
+C:\Users\bugra\OneDrive\Masaüstü\MvcCrudProje\obj\Debug\MvcCrudProje.pdb
